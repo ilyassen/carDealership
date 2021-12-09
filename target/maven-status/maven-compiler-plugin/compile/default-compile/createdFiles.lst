@@ -1,0 +1,17 @@
+com\jfy\CarDealership\dto\Contact.class
+com\jfy\CarDealership\dao\UserDB.class
+com\jfy\CarDealership\dao\VehicleDao.class
+com\jfy\CarDealership\App\Controller.class
+com\jfy\CarDealership\dto\User.class
+com\jfy\CarDealership\dao\VehicleDB$VehicleMapper.class
+com\jfy\CarDealership\dao\UserDao.class
+com\jfy\CarDealership\App\TestApplicationConfiguration.class
+com\jfy\CarDealership\App\App.class
+com\jfy\CarDealership\dao\ContactDB.class
+com\jfy\CarDealership\dao\ContactDao.class
+com\jfy\CarDealership\dao\VehicleDB.class
+com\jfy\CarDealership\dto\Purchase.class
+com\jfy\CarDealership\dao\ContactDB$ContactMapper.class
+com\jfy\CarDealership\dao\UserDB$UserMapper.class
+com\jfy\CarDealership\dto\Vehicle.class
+com\jfy\CarDealership\service\CarDealershipServiceImpl.class
